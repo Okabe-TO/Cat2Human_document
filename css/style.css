@@ -71,3 +71,10 @@ footer {
     border-radius: 12px;
     margin: 20px;
 }
+
+/* 表 */
+table, th, td {
+	border-collapse: collapse;
+	padding: 5px;
+	text-align: left;
+}
