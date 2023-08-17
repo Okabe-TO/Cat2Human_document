@@ -7,6 +7,10 @@ body {
     box-sizing: border-box;
 }
 
+.contents {
+	padding: 1%;
+}
+
 /* ヘッダーメニューをナビゲーションバー風に設定 */
 #menu {
     background-color: #333;
